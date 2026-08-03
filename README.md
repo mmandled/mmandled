@@ -9,4 +9,4 @@ I'm documenting my journey as I build projects and improve my full-stack develop
 ────────────────────────
 ## Connect with Me
 
-[![Instagram](https://skillicons.dev/icons?i=instagram,linkedin)]
+![Instagram](https://skillicons.dev/icons?i=instagram,linkedin)
