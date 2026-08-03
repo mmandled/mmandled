@@ -1,4 +1,4 @@
-👋 Hi, I'm Dave Emmanuel
+Hi, I'm Dave Emmanuel
 
 BS Information System Student
 
@@ -9,7 +9,4 @@ I'm documenting my journey as I build projects and improve my full-stack develop
 ────────────────────────
 ## Connect with Me
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_mmandle/)
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emmanuel-cabizares-4778a3351/)
-
+[![Instagram](https://skillicons.dev/icons?i=instagram,linkedin)]
