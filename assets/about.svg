@@ -19,9 +19,10 @@
 
   <text x="35" y="60" font-size="28" fill="#F4E7DF" font-weight="bold">Dave Emmanuel Cabizares</text>
   <text x="35" y="90" font-size="14" fill="#F07868">Information Systems Student</text>
-  <text x="35" y="116" font-size="14" fill="#D5ADA7">Building practical applications and developing my full-stack</text>
-  <text x="35" y="137" font-size="14" fill="#D5ADA7">development skills through hands-on projects.</text>
+  <text x="35" y="118" font-size="14" fill="#D5ADA7">Building practical applications and developing my full-stack</text>
+  <text x="35" y="138" font-size="14" fill="#D5ADA7">development skills through hands-on projects.</text>
 
+  <!-- Current project: no surrounding shape or extra graphics -->
   <circle cx="642" cy="79" r="4" fill="#F07868"><animate attributeName="opacity" values="1;.3;1" dur="2.5s" repeatCount="indefinite"/></circle>
   <text x="654" y="83" font-size="10" fill="#F07868" letter-spacing="1">CURRENTLY BUILDING</text>
   <text x="642" y="108" font-size="17" fill="#F4E7DF" font-weight="bold">Cebu: Rising Waters</text>
