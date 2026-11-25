@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="177" viewBox="0 0 900 177" font-family="Arial, sans-serif">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#140809"/>
+      <stop offset="100%" stop-color="#1a090a"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="175" rx="14" fill="#080205" stroke="#49201F"/>
+  <rect x="18" y="18" width="864" height="148" rx="9" fill="url(#glow)" stroke="#49201F"/>
+
+  <circle cx="848" cy="40" r="4" fill="#C0392B">
+    <animate attributeName="opacity" values="1;.3;1" dur="2.1s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="35" y="60" font-size="28" fill="#F4E7DF" font-weight="bold">Dave Emmanuel Cabizares</text>
+  <text x="35" y="90" font-size="14" fill="#F07868">Information Systems Student</text>
+  <text x="35" y="116" font-size="14" fill="#D5ADA7">Building practical applications and developing my full-stack</text>
+  <text x="35" y="137" font-size="14" fill="#D5ADA7">development skills through hands-on projects.</text>
+
+  <circle cx="642" cy="79" r="4" fill="#F07868"><animate attributeName="opacity" values="1;.3;1" dur="2.5s" repeatCount="indefinite"/></circle>
+  <text x="654" y="83" font-size="10" fill="#F07868" letter-spacing="1">CURRENTLY BUILDING</text>
+  <text x="642" y="108" font-size="17" fill="#F4E7DF" font-weight="bold">Cebu: Rising Waters</text>
+
+  <line x1="35" y1="160" x2="865" y2="160" stroke="#49201F" stroke-width="1"/>
+  <rect x="35" y="159" width="70" height="2" rx="1" fill="#C0392B">
+    <animate attributeName="x" values="35;795;35" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
